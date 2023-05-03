@@ -1,0 +1,28 @@
+- profile:
+  initials: RP
+  name: Royner Perez
+  profession: Sofware Engineer
+  image: images/profile.jpg
+  location: Caracas, Venezuela
+  relocation: true
+  company: "-"
+  for_hire: true
+  focus: Learning Python
+  focus_url: https://www.python.org/
+  about: |
+    I am a software developer with 3 years of experience in back-end application development using programming languages like Javascript and Python. I am proactive and enjoy experimenting with new technologies to find solutions to problems. I also enjoy teaching others my knowledge and helping them improve their skills.
+
+    I have experience in creating high-quality software using agile development methodologies, including implementing the API First and TDD (Test-Driven Development) methodologies.
+  skills:
+    - NodeJS
+    - MongoDB
+    - AWS
+  tools:
+    - NestJS
+    - Github
+    - Docker
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
